@@ -64,19 +64,17 @@ const Dashboard = () => {
                 </h5>
               </div>
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Facilis, nam molestias. Eaque molestiae ipsam commodi neque.
-                Assumenda repellendus necessitatibus itaque.
+              Welcome to your secure doctors' dashboard at YugVeda Super Speciality Hospital. Access patient records, manage schedules, and collaborate with our expert team to deliver exceptional care with precision and compassion.
               </p>
             </div>
           </div>
           <div className="secondBox">
             <p>Total Appointments</p>
-            <h3>1500</h3>
+            <h3>150</h3>
           </div>
           <div className="thirdBox">
             <p>Registered Doctors</p>
-            <h3>10</h3>
+            <h3>5</h3>
           </div>
         </div>
         <div className="banner">

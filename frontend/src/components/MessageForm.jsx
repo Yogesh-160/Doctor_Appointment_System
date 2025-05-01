@@ -74,7 +74,7 @@ const MessageForm = () => {
             onChange={(e) => setMessage(e.target.value)}
           />
           <div style={{ justifyContent: "center", alignItems: "center" }}>
-            <button type="submit">Send</button>
+            <button type="submit" style={{cursor:'pointer'}}>Send</button>
           </div>
         </form>
         <img src="/Vector.png" alt="vector" />

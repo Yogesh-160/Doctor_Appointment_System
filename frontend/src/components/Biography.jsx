@@ -11,26 +11,12 @@ const Biography = ({imageUrl}) => {
           <p>Biography</p>
           <h3>Who We Are</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            blanditiis sequi aperiam. Debitis fugiat harum ex maxime illo
-            consequatur mollitia voluptatem omnis nihil nesciunt beatae esse
-            ipsam, sapiente totam aspernatur porro ducimus aperiam nisi. Ex
-            magnam voluptatum consectetur reprehenderit fugiat recusandae aut
-            similique illum natus velit, praesentium nostrum nesciunt. Deleniti,
-            nesciunt laboriosam totam iusto!
+          At YugVeda Super Speciality Hospital, we are a beacon of hope and healing, driven by a passion for transforming lives through exceptional healthcare. Established with a vision to set new standards in medical excellence, our state-of-the-art facility brings together cutting-edge technology, world-class expertise, and a deep commitment to compassionate care.
           </p>
-          <p>We are all in 2024!</p>
-          <p>We are working on a MERN STACK PROJECT.</p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
-            assumenda exercitationem accusamus sit repellendus quo optio dolorum
-            corporis corrupti. Quas similique vel minima veniam tenetur
-            obcaecati atque magni suscipit laboriosam! Veniam vitae minus nihil
-            cupiditate natus provident. Ex illum quasi pariatur odit nisi
-            voluptas illo qui ipsum mollitia. Libero, assumenda?
+            Our team comprises highly skilled doctors, dedicated nurses, and specialized healthcare professionals who work tirelessly to ensure every patient receives personalized attention. We believe in treating the individual, not just the condition, fostering a holistic approach that nurtures both body and mind.
           </p>
-          <p>Lorem ipsum dolor sit amet!</p>
-          <p>Coding is fun!</p>
+          <p>Rooted in the values of integrity, empathy, and innovation, YugVeda is more than a hospital—it’s a trusted partner in your journey to wellness. Whether it’s advanced diagnostics, specialized treatments, or preventive care, we are here to guide you every step of the way, ensuring a healthier, brighter tomorrow.</p>
         </div>
       </div>
     </>

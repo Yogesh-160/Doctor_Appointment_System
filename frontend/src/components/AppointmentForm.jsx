@@ -231,10 +231,10 @@ const AppointmentForm = () => {
               type="checkbox"
               checked={hasVisited}
               onChange={(e) => setHasVisited(e.target.checked)}
-              style={{ flex: "none", width: "25px" }}
+              style={{ flex: "none", width: "25px", cursor:"pointer" }}
             />
           </div>
-          <button style={{ margin: "0 auto" }}>GET APPOINTMENT</button>
+          <button style={{ margin: "0 auto", cursor:"pointer" }}>GET APPOINTMENT</button>
         </form>
       </div>
     </>

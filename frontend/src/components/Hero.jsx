@@ -7,12 +7,20 @@ const Hero = ({ title, imageUrl }) => {
         <div className="banner">
           <h1>{title}</h1>
           <p>
-            ZeeCare Medical Institute is a state-of-the-art facility dedicated
-            to providing comprehensive healthcare services with compassion and
-            expertise. Our team of skilled professionals is committed to
-            delivering personalized care tailored to each patient's needs. At
-            ZeeCare, we prioritize your well-being, ensuring a harmonious
-            journey towards optimal health and wellness.
+            Welcome to YugVeda Super Speciality Hospital, where world-class
+            healthcare meets heartfelt compassion. Our cutting-edge facility is
+            dedicated to delivering exceptional medical care, tailored to your
+            unique needs. With a team of highly skilled doctors, nurses, and
+            specialists, we provide personalized treatment plans that prioritize
+            your health and well-being.
+          </p>
+          <p>
+            At YugVeda, we combine advanced medical technology with a
+            patient-first approach, ensuring precise diagnoses and effective
+            treatments. From routine check-ups to complex procedures, our
+            comprehensive services cover every aspect of your wellness journey.
+            We’re more than a hospital—we’re your partner in achieving lasting
+            health and vitality.
           </p>
         </div>
         <div className="banner">

@@ -62,8 +62,7 @@ const Register = () => {
         <h2>Sign Up</h2>
         <p>Please Sign Up To Continue</p>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat culpa
-          voluptas expedita itaque ex, totam ad quod error?
+        Join the YugVeda Super Speciality Hospital family today! Create your account to access top-tier healthcare services, schedule appointments, and embark on a personalized wellness journey with our dedicated team of experts.
         </p>
         <form onSubmit={handleRegistration}>
           <div>
@@ -137,7 +136,7 @@ const Register = () => {
             </Link>
           </div>
           <div style={{ justifyContent: "center", alignItems: "center" }}>
-            <button type="submit">Register</button>
+            <button type="submit" style={{cursor:"pointer"}}>Register</button>
           </div>
         </form>
       </div>
